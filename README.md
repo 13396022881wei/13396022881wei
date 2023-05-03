@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 Here are some ideas to get you started:
-🌱 I’m currently learning java框架
-🤔 I’m looking for help with stack overflow
+- 🌱 I’m currently learning java框架
+- 🤔 I’m looking for help with stack overflow
 ![](https://github-readme-stats.vercel.app/api?username=henrylovecode&theme=dark)
