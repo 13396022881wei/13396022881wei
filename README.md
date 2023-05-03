@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
