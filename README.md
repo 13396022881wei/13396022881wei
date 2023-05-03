@@ -6,7 +6,7 @@
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:1470024342@qq.com)
+- 💬 Ask me about Java, TypeScript and my projects on [1470024342@qq.com](mailto:1470024342@qq.com)
 - ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
 - ⚡ Fun fact: Data Analysis📊
 
@@ -26,7 +26,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
+- [基于 Vue 3 + Spring Boot 2 的移动端网站，实现了用户管理、按标签检索用户、推荐相似用户、组队等功能。](https://github.com/henrylovecode/friendMatch.back)
 
 
 ### 关于我
